@@ -17,6 +17,7 @@ My skills are:
 7) SQL
 
 - 📫 How to reach me ...  my mail : jagtapakshay90@gmail.com
+-                        inked in: https://www.linkedin.com/in/akshay-jagtap-b43b64162/
 
 <!---
 akshxyjagtap/akshxyjagtap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
