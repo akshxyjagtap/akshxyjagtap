@@ -7,18 +7,18 @@ Research Team of DSAII(Data science and Artificial Intelligence Inquisitive) Clu
 
 **My Forte:**
 Good Team Management/Problem-Solver/Teamworker/Strategic/Stimulation of original ideas/Coding/EDA/Statistics.
-My skills are:
-- Python
-- Data science
-- Machine Learning
-- Data Analysis
-- Data Modelling
-- Tableau
-- SQL
+- My skills are:
+  - Python
+  - Data science
+  - Machine Learning
+  - Data Analysis
+  - Data Modelling
+  - Tableau
+  - SQL
 
-- **📫 How to reach me ... **
--  mail id: jagtapakshay90@gmail.com
--  my linked_in: https://www.linkedin.com/in/akshay-jagtap-b43b64162/
+- 📫 How to reach me ...
+  -  mail id: jagtapakshay90@gmail.com
+  -  my linked_in: https://www.linkedin.com/in/akshay-jagtap-b43b64162/
 
 <!---
 akshxyjagtap/akshxyjagtap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
