@@ -3,7 +3,7 @@ I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and dat
 I like to train Machine learning Models for Humans . 
 - 📫 How to reach me ...
   -  mail id: jagtapakshay90@gmail.com
-  -  my linked_in: https://www.linkedin.com/in/akshay-jagtap-b43b64162/
+  -  my linked_in: www.linkedin.com/in/akshayjagtxp
 
 <!---
 akshxyjagtap/akshxyjagtap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
