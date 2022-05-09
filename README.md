@@ -25,9 +25,8 @@ I like to train Machine learning Models for Humans .
 
 - :zap: In my free time, I solve problems on Hacker Rank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshayjagtxp/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshayjagtxp/) [![gmail baddge]( https://img.shields.io/badge/Mail-Akshay-red)](jagtapakshay90@gmail.com)
   
-
 <!---
 akshxyjagtap/akshxyjagtap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
