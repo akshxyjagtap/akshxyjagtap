@@ -9,6 +9,9 @@
   <a href="https://twitter.com/akshxy__">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="https://twitter.com/akshxy__">
+    <img src="https://img.shields.io/badge/Gmail-mail-red" alt="Gmail Badge"/>
+  </a>
 </div>
 
 I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and data science (2nd Year).
