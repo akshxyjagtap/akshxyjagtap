@@ -16,12 +16,17 @@
 
 </div>
 
-I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and data science (2nd Year).
+
 
 I like to train Machine learning Models for Humans . 
-- 📫 How to reach me ...
-  -  mail id: jagtapakshay90@gmail.com
-  -  my linked_in: www.linkedin.com/in/akshayjagtxp
+- :telescope:I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and data science (2nd Year).
+
+- :seedling: I like to train Machine learning Models for Humans . 
+
+- :zap: In my free time, I solve problems on Hacker Rank and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshayjagtxp/)
+  
 
 <!---
 akshxyjagtap/akshxyjagtap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
