@@ -18,7 +18,7 @@
 
 
 
-I like to train Machine learning Models for Humans . 
+
 - :telescope:I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and data science (2nd Year).
 
 - :seedling: I like to train Machine learning Models for Humans . 
