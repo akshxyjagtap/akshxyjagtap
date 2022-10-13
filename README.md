@@ -19,7 +19,7 @@
 
 
 
-- :telescope:I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and data science (2nd Year).
+- :telescope:I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and data science (3rd Year).
 
 - :seedling: I like to train Machine learning Models for Humans . 
 
