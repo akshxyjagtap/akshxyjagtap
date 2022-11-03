@@ -21,7 +21,7 @@
 
 - :telescope:I am **Akshay Jagtap** currently studying B.TECH Artificial intelligence and data science (3rd Year).
 
-- :seedling: I like to train Machine learning Models for Humans . 
+- :seedling: I like to build Machine learning models and play with IOT tools . 
 
 - :zap: In my free time, I solve problems  and play FPS computer games!
 
