@@ -19,7 +19,7 @@
 
 
 
-- :telescope:I am **Akshay Jagtap** Completed B.E in Artificial intelligence and data science.
+- :telescope:I am **Akshay Jagtap** , studied B.E in Artificial intelligence and data science.
   
 - 🚀 I'm deeply immersed in learning and developing applications utilizing Large Language Models (LLMs), exploring their potential in various domains.
 
