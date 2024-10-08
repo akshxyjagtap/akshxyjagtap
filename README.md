@@ -25,7 +25,7 @@
 
 - :seedling: I like to build Machine learning models and play with IOT tools.
 
-- :zap: In my free time, I solve problems  and play FPS computer games!
+- :zap: In my free time, I play chess  and  FPS computer games!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akshay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshayjagtxp/) [![gmail baddge]( https://img.shields.io/badge/Mail-Akshay-red)](mailto:jagtapakshay90@gmail.com)
   
